@@ -1,0 +1,13 @@
+.presentation, .package{
+    text-align: left;
+}
+
+header{
+    box-shadow: 1px -10px 20px rgb(243, 244, 245);
+}
+
+.aws{
+    font-size: 30px;
+    font-family: 'Pacifico', cursive;
+}
+
